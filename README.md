@@ -10,6 +10,7 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 <!--技术栈生成器-->
+
 #  🙋 Hello
 <h1 align="center">Hi 👋, I'm fenzilin</h1>
 <h3 align="center">A teenager who loves code and basketball</h3>
@@ -92,10 +93,12 @@
 <!-- profile-3d-contrib -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
+# 🚀 Actions
 <!--Metrics（GitHub 信息统计）-->
 <div align="center">
 	<img src="https://metrics.lecoq.io/fenzilin?template=classic&config.timezone=Asia%2FShanghai">
 </div>
+
 <!--GitHub Stats Card（GitHub 统计卡片）-->
 <div align="center">
 	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=fenzilin&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -104,6 +107,8 @@
 <div align="center">
 	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenzilin&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
+<!-- Dynamic Quotes -->
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 <!--Github Profile Trophy（GitHub 资料奖杯）-->
 <div align="center">
 	<img  src="https://github-profile-trophy.vercel.app/?username=fenzilin" />
@@ -182,8 +187,8 @@ No Activity Tracked This Week
     </td>
   </tr>
 </table>
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
+# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 <!-- just img -->
 <div align="center"><img width="250px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
 
