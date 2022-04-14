@@ -75,6 +75,11 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
+![:fenzilin](https://count.getloli.com/get/@:fenzilin?theme=gelbooru-h)
+
+![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Typora-yellowgreen)
+
+
 <!-- Gif -->
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
@@ -120,7 +125,7 @@
 	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 </span>
 <!--Visitor Badge（GitHub 访客徽章）-->
-<div align="center">
+<div align="left">
 	<img  src="https://visitor-badge.glitch.me/badge?page_id=fenzilin" />
 </div>
 <!--GitHub Readme Activity Graph （GitHub 活动统计图）-->
